@@ -77,20 +77,3 @@ InventoryApp was built to demonstrate:
 
 ---
 
-## 🤝 Contributing
-
-1. Fork this repository  
-2. Create a feature branch (`feature/new-feature`)  
-3. Commit your changes and open a pull request  
-
----
-
-## 🧑‍💻 Author
-
-**Muhammad Yameen**  
-📧 [m.yameen.zada@gmail.com](mailto:m.yameen.zada@gmail.com)  
-🌐 [GitHub Profile](https://github.com/Yameen-21)
-
----
-
-© 2025 Muhammad Yameen — All Rights Reserved
